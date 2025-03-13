@@ -1,5 +1,5 @@
 # os (Ordem de servico)
-Aplicação Java 17 com Spring Boot, MySQL, Swagger para documentação da API e testes unitários. Clone, configure o MySQL, execute e acesse a documentação via Swagger UI. Contribuições são bem-vindas!
+Uma API para gerenciar técnicos, clientes e ordens de serviço, com operações de cadastro, atualização, consulta e exclusão. Desenvolvida em Java 17 com Spring Boot, MySQL e documentação via Swagger.
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Java 17
